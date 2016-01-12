@@ -7,6 +7,9 @@ Pequeña aplicación opensource que muestra las actuales farmacias de turno en C
 * Ícono
 * Offline
 
+## Screenshots
+[<img src="https://raw.githubusercontent.com/earosb/farmacias/master/captures/ss.png" width=250>](https://raw.githubusercontent.com/earosb/farmacias/master/captures/ss.png)
+
 ## License
 [![GNU GPLv3 Image](http://www.gnu.org/graphics/gplv3-88x31.png)](http://www.gnu.org/licenses/gpl-3.0.en.html)
 
