@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Farmacias de turno Chile</string>
+    <string name="action_about">Acerca de</string>
+    <string name="action_myLocation">Mi ubicación</string>
+    <string name="action_settings">Preferencias</string>
+    <string name="action_update">Actualizar</string>
+    <string name="details">Detalles</string>
+    <string name="ok">Ok</string>
+    <string name="no_gps_msg">El GPS se encuentra desactivado, ¿Desea activarlo?</string>
+    <string name="yes">Si</string>
+    <string name="no">No</string>
+    <string name="connection_error">Error de conexión</string>
+    <string name="json_error">Error parseando datos</string>
+</resources>
